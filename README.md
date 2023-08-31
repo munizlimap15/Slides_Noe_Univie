@@ -3,9 +3,9 @@
 <img
   src="/austriaHeatmap.png"
   alt="Alt text"
-  title="Optional title"
-  width="100"
-  height="100">
+  title="Visualization of the generated HTML map"
+  width="200"
+  height="200">
 
 
 
