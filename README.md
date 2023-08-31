@@ -1,11 +1,12 @@
+# Landslides in NÖ - 
+
 <img
   src="/austriaHeatmap.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  width="100"
+  height="100">
 
-
-# Landslides in NÖ - 
 
 
 
